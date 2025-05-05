@@ -1,8 +1,8 @@
-Egnyte SDK
+Reborn Egnyte SDK
 ==========
 
-This is the official Python client library for Egnyte's Public APIs.
-For overview of the HTTP API, go to https://developers.egnyte.com
+An unofficial Python SDK for Egnyte's public API.
+Currently a work in progress, but picking up where the original development ended.
 
 Getting an API key
 ==================
